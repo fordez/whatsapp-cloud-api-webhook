@@ -1,0 +1,30 @@
+# Entorno virtual local
+.venv/
+venv/
+ENV/
+env/
+
+# Archivos de dependencias temporales
+*.lock
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.so
+
+# Archivos de Jupyter
+.ipynb_checkpoints
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de logs
+*.log
+
+# Archivos de configuración locales
+.env
+*.env

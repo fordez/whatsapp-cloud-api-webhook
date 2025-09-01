@@ -1,0 +1,10 @@
+[project]
+name = "whatsapp"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "aiohttp>=3.12.15",
+    "uvicorn[standard]>=0.35.0",
+]
