@@ -25,5 +25,5 @@ Está desarrollado en **Python**, utilizando:
 Clona el repositorio:
 
 ```bash
-git clone https://github.com/tu-usuario/whatsapp-webhook.git
-cd whatsapp-webhook
+git clone https://github.com/fordez/whatsapp-cloud-api-webhook.git
+cd whatsapp-cloud-api-webhook
